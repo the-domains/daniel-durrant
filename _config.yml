@@ -1,0 +1,28 @@
+name: Daniel Durrant
+favicon: null
+layout_spectrum: 0.7417113832198083
+typography_spectrum: 0.1865438560489565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8284075616393238
+  lightness: 0.39896604930981994
+  saturation: 0.3594324183650315
+  rhythmicContrast: 0.8070922440383583
+purpose: []
