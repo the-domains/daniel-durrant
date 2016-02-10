@@ -1,7 +1,7 @@
 name: Daniel Durrant
 favicon: null
-layout_spectrum: 0.7417113832198083
-typography_spectrum: 0.1865438560489565
+layout_spectrum: 0.94863
+typography_spectrum: 0.29094
 title: facets of an experiment
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ffffff'
+    - '#000000'
+    - '#8f8f8f'
+    - '#474747'
+    - '#4efc96'
   brandStrength: 0.8284075616393238
   lightness: 0.39896604930981994
   saturation: 0.3594324183650315
